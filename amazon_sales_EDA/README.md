@@ -81,7 +81,7 @@ Amazon-Sales-EDA/
 │
 ├── amazon-sales-eda.ipynb
 ├── README.md
-└── amazon_sales.csv
+└── amazon.csv
 ```
 
 ---
